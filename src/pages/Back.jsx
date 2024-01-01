@@ -5,6 +5,7 @@ import Footer from "../components/Footer.jsx"
 import java from '../assets/java.jpg'
 import c from '../assets/c.png'
 import americanas from '../assets/americanas.png'
+import java2 from '../assets/JAVA2.png'
 
 function Back() {
     return(
@@ -27,6 +28,26 @@ function Back() {
                 btnEstilizacao="btnEstilizacao"
                 tamanhoImg="tamanhoImg"
                 linkProjeto="https://github.com/moisesdreckmann/Americanas"
+                linkPage="#"
+                >
+                </Card>
+
+                <Card
+                src={java2}
+                titulo="BIBLIOTECA EM JAVA"
+                descricao="Um sistema de gerenciamento de bibliotecas escolares e institucionais é um sistema de software
+                que automatiza as tarefas de gerenciamento de uma biblioteca. Ele inclui recursos para o cadastro
+                de usuários, empréstimo de exemplares, devolução de exemplares e listagens (pesquisa) de alunos,
+                empréstimos e exemplares. A tecnologia da implementação é java com spring boot como framework."
+                
+                className="cardProject"
+                espaco="espaco"
+                descricaoClassName="descricaoClassName"
+                divBtn="divBtn"
+                tituloClassName="tituloClassName"
+                btnEstilizacao="btnEstilizacao"
+                tamanhoImg="tamanhoImg"
+                linkProjeto="https://github.com/moisesdreckmann/javaAula2"
                 linkPage="#"
                 >
                 </Card>
