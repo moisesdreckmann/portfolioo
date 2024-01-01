@@ -35,7 +35,7 @@ function Back() {
                 <Card
                 src={java2}
                 titulo="BIBLIOTECA EM JAVA"
-                descricao="Um sistema de gerenciamento de bibliotecas escolares e institucionais é um sistema de software
+                descricao="É um sistema de software
                 que automatiza as tarefas de gerenciamento de uma biblioteca. Ele inclui recursos para o cadastro
                 de usuários, empréstimo de exemplares, devolução de exemplares e listagens (pesquisa) de alunos,
                 empréstimos e exemplares. A tecnologia da implementação é java com spring boot como framework."
